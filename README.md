@@ -15,13 +15,39 @@
 
 # Contents
 
+- [User Log](#user-log)
 - [Summary](#summary)
 - [Community](#community)
 - [Curriculum](#curriculum)
 - [Code of conduct](#code-of-conduct)
 - [Team](#team)
 
-# Summary
+---
+
+# User Log
+
+- [x] [Prerequisites](#prerequisites)
+- [ ] [Intro CS](#intro-cs)
+  - [ ] [Introduction to Programming](#introduction-to-programming)
+  - [ ] [Introduction to Computer Science](#introduction-to-computer-science)
+- [ ] [Core CS](#core-cs)
+  - [ ] [Core programming](#core-programming)
+  - [ ] [Core math](#core-math)
+  - [ ] [CS Tools](#cs-tools)
+  - [ ] [Core systems](#core-systems)
+  - [ ] [Core theory](#core-theory)
+  - [ ] [Core security](#core-security)
+  - [ ] [Core applications](#core-applications)
+  - [ ] [Core ethics](#core-ethics)
+- [ ] [Advanced CS](#advanced-cs)
+  - [ ] [Advanced programming](#advanced-programming)
+  - [ ] [Advanced systems](#advanced-systems)
+  - [ ] [Advanced theory](#advanced-theory)
+  - [ ] [Advanced math](#advanced-math)
+- [ ] [Final project](#final-project)
+
+---
+# Summary 
 
 The OSSU curriculum is a **complete education in computer science** using online materials.
 It's not merely for career training or professional development.
